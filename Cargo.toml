@@ -1,0 +1,7 @@
+[workspace]
+members = [
+    "main",
+    "my_lib",
+    "my_types"
+]
+exclude = [ "my_main" ]
